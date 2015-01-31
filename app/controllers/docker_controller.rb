@@ -1,0 +1,2 @@
+class DockerController < ApplicationController
+end
